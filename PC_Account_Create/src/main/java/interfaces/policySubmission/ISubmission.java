@@ -6,6 +6,8 @@ public interface ISubmission {
     public String accountNumber="Account Number";
     public String orgnization="Organization";
 
+//    public String accountNumber="//input[@name='NewSubmission-NewSubmissionScreen-SelectAccountAndProducerDV-Account']";
+//    public String orgnization="//input[@name='NewSubmission-NewSubmissionScreen-SelectAccountAndProducerDV-ProducerSelectionInputSet-Producer']";
     public String orgnizationbutton="//div[@id='NewSubmission-NewSubmissionScreen-SelectAccountAndProducerDV-ProducerSelectionInputSet-Producer-SelectOrganization']";
     //public String accNobutton="//div[@id='NewSubmission-NewSubmissionScreen-SelectAccountAndProducerDV-Account-SelectAccount']";
     public String returnNewsubmission="//div[@id='OrganizationSearchPopup-__crumb__']";

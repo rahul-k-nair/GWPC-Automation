@@ -8,6 +8,8 @@ import utilities.Elements;
 import java.io.IOException;
 import java.util.Map;
 
+import static interfaces.pcAccountCreate.Enter_Account_Info_Create_Account.orgnization;
+
 public class NewSubmission implements ISubmission
 {
 
@@ -17,10 +19,10 @@ public class NewSubmission implements ISubmission
         Map<String,String> data= DataReadForSubmission.getSubmissionData();
 
 
-//        ele.enterText(accountNumber, data.get("Account Number"), driver);
-//        ele.enterText(orgnization, data.get("Organization"), driver);
-//        ele.click_Button(orgnizationbutton, driver);
-//        ele.click_Button(returnNewsubmission, driver);
+        ele.enterText(accountNumber, data.get("Account Number"), driver);
+        ele.enterText(orgnization, data.get("Organization"), driver);
+        ele.click_Button(orgnizationbutton, driver);
+        ele.click_Button(returnNewsubmission, driver);
         DataPassingforPolicySubmission datapass = new DataPassingforPolicySubmission();
 
         if(policyType.equals(singlepolicy))

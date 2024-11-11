@@ -21,7 +21,7 @@ public class DataReading {
         HashMap<String,String> map = new HashMap<>();
         for (int i = 0; i < sheet.getRow(0).getLastCellNum(); i++) {
 
-            map.put(sheet.getRow(0).getCell(i).toString(),sheet.getRow(1).getCell(i).toString());
+            map.put(sheet.getRow(0).getCell(i).toString(),sheet.getRow(2).getCell(i).toString());
 
         }
 

@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-import static interfaces.policySubmission.ISubmission.lobType;
+import static interfaces.policySubmission.ISubmission.*;
 
 
 public class Elements {
@@ -42,6 +42,13 @@ public class Elements {
 
     }
 
+//    public void enterOrg(String fieldName, String data, WebDriver driver) {
+//        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(accountNumber))).clear();
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(accountNumber))).sendKeys(data);
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(orgnization))).clear();
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(orgnization))).sendKeys(data);
+//    }
 
 //   public void click_Button(String buttonName,WebDriver driver)
 //   {
