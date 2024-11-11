@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf79c6cd-7d44-4511-aaca-55c86c3f0aa0" name="Changes" comment="" />
+    <list default="true" id="cf79c6cd-7d44-4511-aaca-55c86c3f0aa0" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testngRegression.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Automation_Tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automation_Tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/PC_Account_Create.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/PC_Account_Create.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/main/java/dataOperation/DataReadForSubmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/main/java/dataOperation/DataReadForSubmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/main/java/dataOperation/DataReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/main/java/dataOperation/DataReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/main/java/excelFile/PolicyAccount.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/main/java/excelFile/PolicyAccount.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/main/java/pages/issuePolicy/DataPassingforPolicySubmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/main/java/pages/issuePolicy/DataPassingforPolicySubmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/main/java/utilities/Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/main/java/utilities/Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/test/java/accCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/test/java/accCreateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/test/java/loginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/test/java/loginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/src/test/java/policySubmitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/src/test/java/policySubmitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/target/classes/dataOperation/DataReadForSubmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/target/classes/dataOperation/DataReadForSubmission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/target/classes/dataOperation/DataReading.class" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/target/classes/dataOperation/DataReading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/target/classes/pages/issuePolicy/DataPassingforPolicySubmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/target/classes/pages/issuePolicy/DataPassingforPolicySubmission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/target/classes/utilities/Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/target/classes/utilities/Elements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/target/test-classes/loginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/target/test-classes/loginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC_Account_Create/target/test-classes/policySubmitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/PC_Account_Create/target/test-classes/policySubmitTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +44,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,32 +58,46 @@
     </option>
   </component>
   <component name="ProjectId" id="2JuXPAGh6c3TvAM53b80eyhyJov" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/AutomationAssignments/Assignment1",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/GWPC automation/PC_Account_Create/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AutomationAssignments&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.policySubmitTest">
-    <configuration name="TestCase.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PC_Account_Create" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCase" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+}</component>
+  <component name="RunManager" selected="TestNG.D:/GWPC automation/src/main/resources/testngE2E.xml">
+    <configuration name="D:/GWPC automation/src/main/resources/testngE2E.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Tasks" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testngE2E.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="accCreateTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="accCreateTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PC_Account_Create" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="accCreateTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="accCreateTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PC_Account_Create" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="accCreateTest" />
@@ -88,36 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginTest.pc_acc_create_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PC_Account_Create" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="loginTest" />
-      <option name="METHOD_NAME" value="pc_acc_create_test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="policySubmitTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PC_Account_Create" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="policySubmitTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.policySubmitTest" />
-        <item itemvalue="TestNG.accCreateTest" />
+        <item itemvalue="TestNG.D:/GWPC automation/src/main/resources/testngE2E.xml" />
+        <item itemvalue="TestNG.accCreateTest (2)" />
+        <item itemvalue="TestNG.accCreateTest (1)" />
         <item itemvalue="TestNG.loginTest.loginTesting" />
         <item itemvalue="TestNG.loginTest" />
-        <item itemvalue="TestNG.loginTest.pc_acc_create_test" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +150,29 @@
       <option name="presentableId" value="Default" />
       <updated>1672928914219</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1730961415722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730961415722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

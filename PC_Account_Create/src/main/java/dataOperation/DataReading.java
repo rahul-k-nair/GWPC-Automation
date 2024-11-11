@@ -3,7 +3,7 @@ package dataOperation;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -29,10 +29,10 @@ public class DataReading {
     }
 
 
-    @Test
-
-    public  void print() throws IOException {
-        System.out.println(getData());
-    }
-
+//    @Test
+//
+//    public  void print() throws IOException {
+//        System.out.println(getData());
+//    }
+//
 }
